@@ -1,4 +1,4 @@
-merge conflict
+change three
 change two
 cs3240lab5
 ==========
